@@ -1,0 +1,15 @@
+D:\.NET Intern\C#\Codes\Assignment\NgocCM2_NPLC_Assignment11\NgocCM2_NPLC_Assignment11\bin\Debug\net6.0\NgocCM2_NPLC_Assignment11.exe
+D:\.NET Intern\C#\Codes\Assignment\NgocCM2_NPLC_Assignment11\NgocCM2_NPLC_Assignment11\bin\Debug\net6.0\NgocCM2_NPLC_Assignment11.deps.json
+D:\.NET Intern\C#\Codes\Assignment\NgocCM2_NPLC_Assignment11\NgocCM2_NPLC_Assignment11\bin\Debug\net6.0\NgocCM2_NPLC_Assignment11.runtimeconfig.json
+D:\.NET Intern\C#\Codes\Assignment\NgocCM2_NPLC_Assignment11\NgocCM2_NPLC_Assignment11\bin\Debug\net6.0\NgocCM2_NPLC_Assignment11.dll
+D:\.NET Intern\C#\Codes\Assignment\NgocCM2_NPLC_Assignment11\NgocCM2_NPLC_Assignment11\bin\Debug\net6.0\NgocCM2_NPLC_Assignment11.pdb
+D:\.NET Intern\C#\Codes\Assignment\NgocCM2_NPLC_Assignment11\NgocCM2_NPLC_Assignment11\obj\Debug\net6.0\NgocCM2_NPLC_Assignment11.csproj.AssemblyReference.cache
+D:\.NET Intern\C#\Codes\Assignment\NgocCM2_NPLC_Assignment11\NgocCM2_NPLC_Assignment11\obj\Debug\net6.0\NgocCM2_NPLC_Assignment11.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET Intern\C#\Codes\Assignment\NgocCM2_NPLC_Assignment11\NgocCM2_NPLC_Assignment11\obj\Debug\net6.0\NgocCM2_NPLC_Assignment11.AssemblyInfoInputs.cache
+D:\.NET Intern\C#\Codes\Assignment\NgocCM2_NPLC_Assignment11\NgocCM2_NPLC_Assignment11\obj\Debug\net6.0\NgocCM2_NPLC_Assignment11.AssemblyInfo.cs
+D:\.NET Intern\C#\Codes\Assignment\NgocCM2_NPLC_Assignment11\NgocCM2_NPLC_Assignment11\obj\Debug\net6.0\NgocCM2_NPLC_Assignment11.csproj.CoreCompileInputs.cache
+D:\.NET Intern\C#\Codes\Assignment\NgocCM2_NPLC_Assignment11\NgocCM2_NPLC_Assignment11\obj\Debug\net6.0\NgocCM2_NPLC_Assignment11.dll
+D:\.NET Intern\C#\Codes\Assignment\NgocCM2_NPLC_Assignment11\NgocCM2_NPLC_Assignment11\obj\Debug\net6.0\refint\NgocCM2_NPLC_Assignment11.dll
+D:\.NET Intern\C#\Codes\Assignment\NgocCM2_NPLC_Assignment11\NgocCM2_NPLC_Assignment11\obj\Debug\net6.0\NgocCM2_NPLC_Assignment11.pdb
+D:\.NET Intern\C#\Codes\Assignment\NgocCM2_NPLC_Assignment11\NgocCM2_NPLC_Assignment11\obj\Debug\net6.0\NgocCM2_NPLC_Assignment11.genruntimeconfig.cache
+D:\.NET Intern\C#\Codes\Assignment\NgocCM2_NPLC_Assignment11\NgocCM2_NPLC_Assignment11\obj\Debug\net6.0\ref\NgocCM2_NPLC_Assignment11.dll
